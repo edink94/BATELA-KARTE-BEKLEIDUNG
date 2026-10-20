@@ -1,0 +1,6 @@
+{
+  "name": "BATELA Vertriebsatlas Deutschland",
+  "description": "Interaktive geografische Vertriebskarte und Auswertungen für BATELA auf Basis der PDF-Geschäftsdaten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
